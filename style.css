@@ -58,7 +58,7 @@ h3 {
     transform: translateX(0);
     position: static;
     box-shadow: inset 10px 0px 10px -5px rgba(35,71,87, 0.2);
-    width: 50%;
+    width: 80%;
     border-right: 3rem ridge rgba(35,71,87, 0.1);
     border-bottom-right-radius: 0.5rem;
     border-bottom-left-radius: 0.5rem;
