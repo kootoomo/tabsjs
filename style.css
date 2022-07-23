@@ -11,7 +11,7 @@ h1 {
     text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);
 }
 h3 {
-    transform: translateX(10%);
+    transform: translateX(5%);
     font-size: 2rem;
     color: #ffba7a;
     text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);
@@ -65,14 +65,14 @@ h3 {
 }
 .tab-content__item.active h2{
     color:#a3ffbd;
-    transform: translateX(40%);
+    transform: translateX(5%);
 }
 .tab-content__item img {
     width: 50%;
     transform: translateX(50%);
     border-radius: 0.5rem;
 }
-@media (max-width: 500px) {
+@media (max-width: 700px) {
     h1 {
         font-size: 3rem;
     }
